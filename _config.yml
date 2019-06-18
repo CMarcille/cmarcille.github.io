@@ -41,7 +41,7 @@ per_page: 20
 paginate_path: "/page/:num/"
 permalink: :title.html
 category_dir: categories
-exclude: [README.md']
+exclude: [README.md, LICENSE, Gemfile, Gemfile.lock, Gruntfile.js, Gruntfile.coffee, node_modules]
 include: ['_pages']
 markdown: kramdown
 plugins:
