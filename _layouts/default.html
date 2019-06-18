@@ -140,11 +140,11 @@ layout: compress
             {% assign categories_list = site.categories %}
               {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                  <li><a href="{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | capitalize }} </a></li>
+                  <li><a href="{{site.baseurl}}/category/{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | capitalize }} </a></li>
                 {% endfor %}
               {% else %}
                 {% for category in categories_list %}
-                  <li><a href="{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | capitalize }}</a></li>
+                  <li><a href="{{site.baseurl}}/category/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | capitalize }}</a></li>
                 {% endfor %}
               {% endif %}
             {% assign categories_list = nil %}
@@ -160,8 +160,8 @@ layout: compress
             - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by Jekyll.
           {% endif %}
           <div class="btn-github" style="float:right;">
-            <iframe src="https://ghbtns.com/github-btn.html?user=agusmakmun&repo=agusmakmun.github.io&type=star&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
-            <iframe src="https://ghbtns.com/github-btn.html?user=agusmakmun&repo=agusmakmun.github.io&type=fork&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=CMarcille&repo=CMarcille.github.io&type=star&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=CMarcille&repo=CMarcille.github.io&type=fork&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
           </div>
         </footer>
       </div>
