@@ -16,11 +16,7 @@
 
 ### How to Use?
 
-**a. Add new Category**
-
-All categories saved inside path of `category/`, you can see the existed categories.
-
-**b. Add new Posts**
+**a. Add new Posts**
 
 * All posts bassed on markdown syntax _(please googling)_. allowed extensions is `*.markdown` or `*.md`.
 * This files can found at the path of `_posts/`.
@@ -28,10 +24,6 @@ All categories saved inside path of `category/`, you can see the existed categor
 
 ```
 2013-09-23-welcome-to-jekyll.md
-
-# or
-
-2013-09-23-welcome-to-jekyll.markdown
 ```
 
 Inside the file of it,
