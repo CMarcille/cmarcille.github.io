@@ -1,6 +1,6 @@
 ---
 layout: category_index
-categories: Housekeeping
+categories: housekeeping
 title: "Grammar.Guru"
 permalink: /category/housekeeping
 ---
