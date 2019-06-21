@@ -2,7 +2,7 @@
 layout: post
 title:  sample post
 date:   2019-06-21 00:6:23 +0530
-categories: [post, lorem, jekyll]
+categories: [lorem, jekyll]
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet non cupiditate unde vel animi, quae rerum minus obcaecati quis, possimus autem consequuntur velit laudantium corporis vero at aut omnis. Ipsum unde deleniti sed corrupti sapiente omnis cum dolore vel optio.
 
