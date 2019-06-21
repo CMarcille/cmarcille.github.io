@@ -1,12 +1,5 @@
 ## My Stack Problems
 
-### Demo
-* [https://cmarcille.github.io/](https://cmarcille.github.io/)
-
-#### Screenshot
-
-![Screenshot Post Page](https://raw.githubusercontent.com/cmarcille/cmarcille.github.io/master/static/img/screenshot-post-page.png  "Screenshot Post Page")
-
 ### Install & Configuration
 
 1. Fork this repository
