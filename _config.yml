@@ -36,8 +36,7 @@ urls:
 
 url: "https://cmarcille.github.io"
 baseurl: ""
-# Configure the plugin here
-# category_path: "jekyll/category" # <- default value
+category_path: "category" # <- default value
 category_layout: "category_index.html" # <- default value
 paginate: 20
 per_page: 20
