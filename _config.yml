@@ -21,8 +21,7 @@ social:
       link: "#"
     - icon: fa-stack-exchange
       link: "#"
-    - icon: fa-github
-      link: "https://github.com/CMarcille"
+
 
 share:
   twitter_username: github.io
