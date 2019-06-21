@@ -1,6 +1,6 @@
 ---
 layout: category_index
-categories: grammer
+categories: Grammar
 title: "Grammar.Guru"
-permalink: /category/grammar
+permalink: /category/Grammar
 ---
