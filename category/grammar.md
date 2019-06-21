@@ -1,6 +1,6 @@
 ---
 layout: category_index
 categories: grammer
-title: English Grammar
+title: "Grammar.Guru"
 permalink: /category/grammar
 ---
