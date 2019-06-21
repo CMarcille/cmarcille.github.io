@@ -1,13 +1,39 @@
 ---
 layout: post
-title:  sample post
+title:  Welcome to Grammar.Guru
 date:   2019-06-21 00:6:23 +0530
-categories: [lorem, jekyll]
+
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet non cupiditate unde vel animi, quae rerum minus obcaecati quis, possimus autem consequuntur velit laudantium corporis vero at aut omnis. Ipsum unde deleniti sed corrupti sapiente omnis cum dolore vel optio.
+# Welcome to Grammar dot Guru
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores doloribus magnam tenetur, sapiente. Dolorem fugiat provident, neque ea voluptatum ducimus voluptatem amet, nobis dolore, voluptas recusandae quis error! Consectetur minima, nemo sunt accusamus delectus cum libero!
+The purpose of this blog is to demystify grammar in order to help readers improve their writing and speaking.
 
-Perspiciatis eveniet error debitis corrupti atque, quae nesciunt deleniti aliquam nam consequuntur quos unde omnis. Iure eum hic repellendus doloribus perferendis, sapiente laudantium nihil magni possimus dignissimos minima laboriosam natus delectus rem quia quisquam debitis sunt modi maxime? Provident error ratione harum asperiores ullam cupiditate dolor inventore vero, facere cumque assumenda. Non, nostrum sed harum quaerat eligendi enim id repudiandae eius reiciendis hic.
+Improving writing and speaking through better grammar isn’t just for second-language learners, though. Native speakers too become confused with words like *who* and *whom*. Commas confuse the hell out of writers, too. And don’t forget modifiers of all types — people misuse these all the time, sometimes to hilarious effects. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam optio eius quis, ullam, asperiores doloremque hic omnis distinctio consequatur iusto consectetur dolorem sunt minus animi delectus laboriosam unde quod magnam a alias ex. Commodi explicabo adipisci, nihil? Minus maxime obcaecati dolores, ipsum sunt, modi sequi in excepturi cupiditate eaque recusandae.
+People don’t want to admit it, but let’s be honest. Lots of people need help with their grammar. You’ve seen it in Facebook posts, emails at work, and throughout Twitter. Grammar is clearly a mystery to many, native speakers and second-language learners included.
+
+I’m here to help. 
+
+Here we will examine many features of *“Standard” American Grammar* in the hopes that understanding the features will lead to better use, the way knowing about human anatomy can lead to better health.
+
+I hope these posts will always entertain and educate you. Sometimes they will be hilarious. Sometimes they will confuse you. This is life. And grammar too.
+
+### To note:
+
+Improving your grammar implies **prescribing** a fix. I will try to avoid this as much as possible, because, as you will see, grammatical rules were not handed down from a deity on tablets in perfect form. They arrived naturally and organically through time, through use, and through human engineering. There is not necessarily just **one way** to say something. All grammars are both **incredibly democratic** and **constantly changing**. Constantly. Please keep this in mind when you hear such rigorous talk about what is correct and what is wrong. (See: English Teacher, High School.)
+
+Instead, I hope to *describe* grammatical use, so that the mechanics and properties of the language can be better manipulated. In other words, I don’t want to tell you *what* to say; I want to *show* you what you are truly saying. You can take it from there.
+
+Now let’s begin.
+ 
+
+
+
+
+
+
+
+
+
+
+
