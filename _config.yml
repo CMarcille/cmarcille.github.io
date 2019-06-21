@@ -26,30 +26,16 @@ share:
   twitter_username: github.io
   fb_appid: 1749788565247320
 
-urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
-
 url: "https://cmarcille.github.io"
 baseurl: ""
-category_path: "category" # <- default value
-category_layout: "category_index.html" # <- default value
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
-permalink: :title.html
-category_dir: categories
 exclude: [README.md, LICENSE, Gemfile, Gemfile.lock, Gruntfile.js, Gruntfile.coffee, node_modules]
-include: ['_pages']
 markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-category-pages
 
 compress_html:
   clippings: all

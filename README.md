@@ -16,7 +16,11 @@
 
 ### How to Use?
 
-**a. Add new Posts**
+**a. Add new Category**
+
+All categories saved inside path of `category/`, you can see the existed categories.
+
+**b. Add new Posts**
 
 * All posts bassed on markdown syntax _(please googling)_. allowed extensions is `*.markdown` or `*.md`.
 * This files can found at the path of `_posts/`.
