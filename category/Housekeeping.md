@@ -1,6 +1,6 @@
 ---
 layout: category_index
-categories: housekeeping
+categories: Housekeeping
 title: "Grammar.Guru"
-permalink: /category/housekeeping
+permalink: /category/Housekeeping
 ---
