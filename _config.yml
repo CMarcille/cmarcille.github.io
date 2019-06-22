@@ -26,7 +26,6 @@ share:
   twitter_username: github.io
   fb_appid: 1749788565247320
 
-url: "https://cmarcille.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
