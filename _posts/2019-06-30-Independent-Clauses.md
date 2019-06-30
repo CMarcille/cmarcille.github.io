@@ -34,7 +34,7 @@ This stark group of words is well formed English clause because it has a noun an
 So what we have learned is that **a well formed declarative clause requires the noun to precede the verb, and for those two words to have some semantic connection**. 
 >“Peanut butter flies”. 
 
-This sentence contains a noun and a verb in the correct order, but they have nothing to do with each other, and so are nonsensical. **Grammatically its correct, but it’s not well formed.**
+This sentence contains a noun and a verb in the correct order, but they have nothing to do with each other, and so are nonsensical. **Grammatically it's correct, but it’s not well formed.**
 
 So, in general, any noun followed by a verb forms a clause. For example:
 
